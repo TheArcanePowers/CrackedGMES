@@ -4,6 +4,8 @@
 ## About
 CrackedGMES is a side project I did in a few hours, working off the incredibly useful [Google Meet Extension Suite](https://chrome.google.com/webstore/detail/google-meet-enhancement-s/ljojmlmdapmnibgflmmminacbjebjpno) chrome extension. Since my school has been using Google for Education to offer online learning since last year as a result of COVID-19, I realised the benefit this extension could have on my learning.
 In addition to the source code in the repo, there are compiled `.crx` files for installing the extensions in Chromium, and the unpacked extension as a `.zip`for Google Chrome.
+
+No copyright infringement is intended - this was just an exercise to test my skills - and as such if the authors of GMES reach out fot this to be taken down it will.
 ## Beginning
 I started by downloading the source-code from the google extension, and quickly noticed the authors left JS .map files in the final extension.
 
